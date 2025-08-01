@@ -71,4 +71,4 @@ The `submission.ipynb` file:
 
 ## 👥 Authors
 
-This solution was developed by [Your Name or Team Name].
+This solution was developed by Ritankar.
